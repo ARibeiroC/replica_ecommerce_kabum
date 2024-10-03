@@ -1,0 +1,26 @@
+:root{
+    --slate-200: #e2e8f0;
+    --orange-500: #f97316;
+    --sky-800: #0060b1;
+    --white: #fff;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    min-height: 100vh;
+}
+
+#cart {
+    position: fixed;
+}
+
+/* Abre ou Fecha a aba do nosso carrinho */
+.toggleCart{
+    right: -210px;  
+}

@@ -1,0 +1,36 @@
+.stripe-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: bold;
+    font-size: 1.25rem;
+    height: 2.5rem;
+    background-color: var(--orange-500);
+    color: var(--white);
+}
+
+.stripe-container #filter {
+    display: flex;
+    gap: .5rem;
+    font-size: .875rem;
+}
+
+.stripe-container #filter div label {
+    padding: .5rem;
+    cursor: pointer;
+    border-radius: .6rem;
+    width: 7.5rem;
+    text-align: center;
+    user-select: none;
+    transition: .4s;
+}
+
+.stripe-container #filter div input {
+    display: none;    
+}
+
+.stripe-container #filter div input:checked ~ label {
+    background-color: var(--white);
+    color: var(--orange-500);
+}
