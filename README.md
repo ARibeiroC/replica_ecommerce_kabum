@@ -35,23 +35,23 @@ Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Va
 - [ ] Checkout
 ## FEATURES
 
-- [X] Gerenciamento do Local Storage
+- [ ] Gerenciamento do Local Storage
 - [ ] Renderizar produtos através do banco de dados
-- [X] Criação de um botão personalizado
-- [X] Adicionar produto no carrinho
+- [ ] Criação de um botão personalizado
+- [ ] Adicionar produto no carrinho
 
 ### INDEX
 
 
 #### LOGIN
-  - [X] Sistema de Login
-  - [X] Autenticação de login de usuário com token
+  - [ ] Sistema de Login
+  - [ ] Autenticação de login de usuário com token
   - [ ] Validação dos campos de login
 
 #### CADASTRO
-  - [X] Cadastro de Usuário
-  - [X] Validação dos campos
-  - [X] Máscara para os campos
+  - [ ] Cadastro de Usuário
+  - [ ] Validação dos campos
+  - [ ] Máscara para os campos
 
 ### CARRINHO
   - [ ] Listagem de produtos adicionados ao carrinho
