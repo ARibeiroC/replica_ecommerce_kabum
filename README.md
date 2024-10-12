@@ -40,7 +40,7 @@ Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Va
 - [ ] Criação de um botão personalizado
 - [ ] Adicionar produto no carrinho
 
-### INDEX
+#### INDEX
 
 
 #### LOGIN
