@@ -53,7 +53,7 @@ Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Va
   - [ ] Validação dos campos
   - [ ] Máscara para os campos
 
-### CARRINHO
+#### CARRINHO
   - [ ] Listagem de produtos adicionados ao carrinho
   - [ ] Calculo de total e subtotal
   - [ ] Controle de quantidade de produtos
