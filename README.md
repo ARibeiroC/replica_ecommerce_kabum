@@ -1,5 +1,8 @@
 # PROJETO DE E-COMMERCE - REPLICA KABUM
-Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Vanilla, para desenvolver uma loja virtual
+Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Vanilla, para desenvolver uma loja virtual.
+Através dele demonstar meus conhecimentos e domínios sobre as tecnologias.
+
+Este projeto irá possuir diversas features interessantes, abaixo esta o roadMAP do desenvolvimento.
 
 ## EM PROCESSO DE DESENVOLVIMENTO #
 ## HTML
