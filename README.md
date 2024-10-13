@@ -3,36 +3,42 @@ Este projeto tem como objetivo utilizar das tecnologias HTML,CSS e Javascript Va
 
 ## EM PROCESSO DE DESENVOLVIMENTO #
 ## HTML
-- [X] Index
-    - [x] Estrutura base HTML
+- [X] Home
     - [x] Header
     - [x] Navs
-    - [ ] Filtros por Categoria
-    - [x] Conteúdo
-    - [ ] Footer
-    - [ ] Carrinho
+    - [ ] Categorias de Produtos
     - [x] Cards
+    - [ ] Carrinho retratil
+    - [ ] Footer
 - [ ] Login
+    - [ ] Formulário
+- [ ] Cadastro de Usuários
+    - [ ] Formulário
 - [ ] Carrinho
-    - [ ] Estrutura base HTML
     - [ ] Lista de Itens
+    - [ ] Subtotal
+    - [ ] Controles de quantidade
+    - [ ] Botão comprar
 - [ ] Checkout
-    - [ ] Estrutura base HTML
-    - [ ] Formulários de compra
 
 ## CSS
 #### Estilizando a página com CSS puro
-- [X] Página Index
-    - [X] Design
-    - [X] Layout
-    - [x] Stripes
-    - [x] Header
-    - [ ] Cards
-    - [ ] Nav
-    - [ ] Carrinho
+- [X] Home
+    - [x] Design
+    - [x] Layout
     - [ ] Responsividade
 - [ ] Carrinho
+    - [ ] Design
+    - [ ] Layout
+    - [ ] Responsividade
 - [ ] Checkout
+    - [ ] Design
+    - [ ] Layout
+    - [ ] Responsividade
+- [ ] Login
+    - [ ] Design
+    - [ ] Layout
+    - [ ] Responsividade      
 ## FEATURES
 
 - [ ] Gerenciamento do Local Storage
